@@ -1,5 +1,3 @@
-#Personal Project: The Maze Solver we did in 181 but in python
-
 import queue
 
 def createMaze():
