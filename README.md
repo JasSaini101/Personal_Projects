@@ -4,7 +4,10 @@ A small collection of other, smaller projects I have worked on over the years ou
 
 ## 🐴 Knights Tour
 
-![image](https://github.com/JasSaini101/Personal_Projects/assets/83828348/802f1b66-4c61-4f4e-998c-829f34a3030d)
+![image](https://github.com/JasSaini101/Personal_Projects/assets/83828348/170b03dd-bc0e-447b-b7e0-b57e7683c8ca)
+
+![image](https://github.com/JasSaini101/Personal_Projects/assets/83828348/6687dd50-4346-4700-902d-45159752daf3)
+
 
 ### 📝 Preface
 A chess knight is unique in the way it moves as it jumps multiple squares (2 in one direction and 1 in another perpendicular direction) to form an "L-Shaped Move." A knight's tour is a sequence of moves of a knight on a chessboard such that the knight visits every square exactly once. 
