@@ -5,7 +5,7 @@ A small collection of other, smaller projects I have worked on over the years ou
 ## 🐴 Knights Tour
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/JasSaini101/Personal_Projects/assets/83828348/170b03dd-bc0e-447b-b7e0-b57e7683c8ca" alt="Image 1" width="45%">
+  <img src="https://github.com/JasSaini101/Personal_Projects/assets/83828348/476ee3a4-d0ca-4dc4-a0f0-bdf604a9a4f3" alt="Image 1" width="45%">
   <img src="https://github.com/JasSaini101/Personal_Projects/assets/83828348/6687dd50-4346-4700-902d-45159752daf3" alt="Image 2" width="45%">
 </div>
 
