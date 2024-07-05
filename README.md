@@ -4,9 +4,7 @@ A small collection of other, smaller projects I have worked on over the years ou
 
 ## 🐴 Knights Tour
 
-![image](https://github.com/JasSaini101/Personal_Projects/assets/83828348/170b03dd-bc0e-447b-b7e0-b57e7683c8ca)
-
-![image](https://github.com/JasSaini101/Personal_Projects/assets/83828348/6687dd50-4346-4700-902d-45159752daf3)
+![image](https://github.com/JasSaini101/Personal_Projects/assets/83828348/170b03dd-bc0e-447b-b7e0-b57e7683c8ca) ![image (https://github.com/JasSaini101/Personal_Projects/assets/83828348/6687dd50-4346-4700-902d-45159752daf3)
 
 
 ### 📝 Preface
