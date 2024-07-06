@@ -1,0 +1,1 @@
+print("\n\nO = Start\nX = End\n# = Wall\n+ = Path\n = Empty\n\n")

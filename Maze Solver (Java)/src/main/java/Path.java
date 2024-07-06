@@ -31,7 +31,7 @@ public class Path {
 
 
     public Path move(Maze m, Direction d) throws UnableToMoveException{
-        System.out.println("PATH: " + path);
+        //System.out.println("PATH: " + path);
         Square sq;
         try {
             sq = m.squareAdjacent(path.get(path.size()-1),d);

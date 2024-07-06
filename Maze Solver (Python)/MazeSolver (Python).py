@@ -4,9 +4,11 @@ import queue
 
 def createMaze():
     maze = []
-    maze.append(["#","O","#"])
-    maze.append(["#"," ","#"])
-    maze.append(["#"," ","X"])
+    maze.append(["#","O"," "," ", "#" ])
+    maze.append([" "," ","#", "#", " "])
+    maze.append(["#"," ","#", "X", "# "])
+    maze.append(["#"," "," ", " ", " "])
+    maze.append(["#"," ","#", " ", "#"])
 
     return(maze)
 

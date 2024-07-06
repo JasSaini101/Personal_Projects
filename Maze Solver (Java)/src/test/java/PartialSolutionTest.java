@@ -45,7 +45,7 @@ class PartialSolutionTest {
         d1.add(Direction.LEFT);
         p1.push(new Square(1,0));
         PartialSolution ps2 = new PartialSolution(d1, p1, m1);
-        Iterator it1 = psset.iterator();
+        Iterator<PartialSolution> it1 = psset.iterator();
         while( it1.hasNext())
             System.out.println(it1.next() + ": ");
 
@@ -77,7 +77,7 @@ class PartialSolutionTest {
         d1.add(Direction.LEFT);
         p1.push(new Square(1,0));
         PartialSolution ps2 = new PartialSolution(d1, p1, m1);
-        Iterator it1 = psset.iterator();
+        Iterator<PartialSolution> it1 = psset.iterator();
         while( it1.hasNext())
             System.out.println(it1.next() + ": ");
 
