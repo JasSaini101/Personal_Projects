@@ -32,7 +32,7 @@ A Python implementation of the maze solver algorithm, inspired by a project from
 
 <p align="center">
   <img src="https://github.com/JasSaini101/Personal_Projects/assets/83828348/fca0a960-1b1b-424a-b117-4e36ea79bced" width="300" />
-  <img src="https://github.com/JasSaini101/Personal_Projects/assets/83828348/704d16de-926c-4b4c-9545-f74d7e231656" width="300" />
+  <img src="https://github.com/JasSaini101/Personal_Projects/assets/83828348/704d16de-926c-4b4c-9545-f74d7e231656" width="250" />
 </p>
 
 This project creates a maze and then finds a path from the start to the exit using breadth-first search (BFS). The maze is represented as a 2D list, where `#` represents walls, `O` represents the starting point, and `X` represents the exit.
